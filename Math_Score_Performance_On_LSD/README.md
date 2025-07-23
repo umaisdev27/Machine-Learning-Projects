@@ -20,17 +20,8 @@ This chart illustrates how LSD is distributed across various tissues in the huma
 
 **Description:**  
 This image compares logical arithmetic thinking with the altered state induced by LSD-25. It’s basically what happens when your brain switches from calculator mode to cosmic mode.  
-🔍 *Conclusion:* After LSD, not only do numbers bend, but reality also applies for sick leave.
+
 
 ---
 
-## ⚠️ Disclaimer
-
-This content is purely for educational and scientific purposes. Do not attempt to replicate, consume, or experiment with any substance discussed here. Unless you're a scientist — and even then, maybe chill.
-
----
-
-## 🧪 Want More?
-
-Feel free to fork the repo, raise an issue, or open a pull request. Or just stare at the charts and question reality — both are valid options. 😵‍💫
 
