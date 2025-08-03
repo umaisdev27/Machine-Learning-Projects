@@ -30,12 +30,12 @@ We then introduced partial derivatives to observe the **gradient** of the functi
 
 ### Partial Derivative with respect to `x`:
 $$
-\frac{\partial f}{\partial x} = \frac{2x \ln(3) \cdot 3^{-x^2 - y^2}}{\left(3^{-x^2 - y^2} + 1\right)^2}
+\frac{\partial f}{\partial x} = \frac{2x. \ln(3) \cdot 3^{-x^2 - y^2}}{\left(3^{-x^2 - y^2} + 1\right)^2}
 $$
 
 ### Partial Derivative with respect to `y`:
 $$
-\frac{\partial f}{\partial y} = \frac{2y \ln(3) \cdot 3^{-x^2 - y^2}}{\left(3^{-x^2 - y^2} + 1\right)^2}
+\frac{\partial f}{\partial y} = \frac{2y .\ln(3) \cdot 3^{-x^2 - y^2}}{\left(3^{-x^2 - y^2} + 1\right)^2}
 $$
 
 We constructed:
