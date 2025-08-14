@@ -1,6 +1,4 @@
 
----
-
 # Predicting House Prices in Boston
 
 This project aims to predict house prices in Boston using statistical analysis, correlation studies, and regression modeling.
