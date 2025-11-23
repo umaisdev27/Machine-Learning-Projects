@@ -44,8 +44,6 @@ Classes: Plane, Car, Bird, Cat, Deer, Dog, Frog, Horse, Sheep, Truck
 
 ## 📈 Model Performance
 
-  Metric     Score
-  ---------- --------
   Accuracy   \~60%+
 
 ------------------------------------------------------------------------
