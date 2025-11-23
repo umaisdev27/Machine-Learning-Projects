@@ -1,23 +1,11 @@
-# 🖼️ CIFAR-10 Image Classifier
+# 🖼️ CIFAR-10 Image Classifier Using the Neural-Networks
 
-*Because even tiny 32×32 images deserve recognition!* 🤓📸
-
-```{=html}
-<p align="center">
-```
-`<img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />`{=html}
-`<img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?logo=tensorflow" />`{=html}
-`<img src="https://img.shields.io/badge/Keras-Sequential-red?logo=keras" />`{=html}
-`<img src="https://img.shields.io/badge/Dataset-CIFAR10-success?logo=github" />`{=html}
-```{=html}
-</p>
-```
 
 ------------------------------------------------------------------------
 
 ## 🗂️ Project Structure
 
-📁 **`56f5aeb7-fec5-43f8-8645-183160fe0193.ipynb`** → Main Notebook\
+📁 **`Neural-Network-Classification.ipynb`** → Main Notebook\
 - 📚 Imports: `tensorflow`, `keras`, `numpy`, `cifar10`\
 - 📥 Loads CIFAR-10 dataset (60,000 images, 10 classes)\
 - 🧹 Preprocessing: normalization, reshaping\
@@ -30,8 +18,7 @@
 ## 🔍 Example Outputs
 
 **Sample Images from CIFAR-10:**\
-(Insert your images here)
-
+![alt text](image.png)
 ------------------------------------------------------------------------
 
 ## 🧠 Model Architecture
