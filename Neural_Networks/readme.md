@@ -45,16 +45,7 @@ Classes: Plane, Car, Bird, Cat, Deer, Dog, Frog, Horse, Sheep, Truck
 ## 📈 Model Performance
 
   Accuracy   \~60%+
-
-------------------------------------------------------------------------
-
-## ⚙️ Future Upgrades
-
--   CNN\
--   Data augmentation\
--   BatchNorm\
--   Model saving
-
+  
 ------------------------------------------------------------------------
 
 ## ✨ Credits
